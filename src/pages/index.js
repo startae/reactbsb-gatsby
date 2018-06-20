@@ -5,7 +5,6 @@ import netlifyImage from '../assets/netlify.svg'
 import fromZeroImage from '../assets/from-zero.svg'
 import reactImage from '../assets/react.svg'
 import githubImage from '../assets/github.svg'
-import deployImage from '../assets/deploy.svg'
 
 const IndexPage = () => (
   <div>
